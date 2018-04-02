@@ -1,0 +1,8 @@
+DEBUG:root:------------------------------------------------------
+DEBUG:root:Fri Mar 30 18:44:50 2018: Enqueued value is 12
+DEBUG:root:Fri Mar 30 18:44:50 2018: Enqueued value is 23
+DEBUG:root:Fri Mar 30 18:44:50 2018: Dequeued value is 12
+DEBUG:root:Fri Mar 30 18:44:50 2018: Front value of queue is 23
+DEBUG:root:Fri Mar 30 18:44:50 2018: Dequeued value is 23
+DEBUG:root:Fri Mar 30 18:44:50 2018: Enqueued value is 34
+DEBUG:root:Fri Mar 30 18:44:50 2018: Front value of queue is 34

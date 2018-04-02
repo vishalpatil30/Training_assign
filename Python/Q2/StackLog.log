@@ -1,0 +1,6 @@
+DEBUG:root:------------------------------------------------------
+DEBUG:root:Fri Mar 30 18:43:50 2018: pushed value is 12
+DEBUG:root:Fri Mar 30 18:43:50 2018: pushed value is 23
+DEBUG:root:Fri Mar 30 18:43:50 2018: poped value is 23
+DEBUG:root:Fri Mar 30 18:43:50 2018: Top of the stack is 12
+DEBUG:root:Fri Mar 30 18:43:50 2018: poped value is 12
